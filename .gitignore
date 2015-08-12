@@ -1,0 +1,40 @@
+Assets/Editor.meta
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Uu]nityGenerated/
+Assets/Raw Mocap Data/
+Builds/
+Bolt_Debug*
+
+# ===================================== #
+# Visual Studio / MonoDevelop generated #
+# ===================================== #
+ExportedObj/
+*.svd
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln
+*.user
+*.unityproj
+*.booproj
+
+# ============ #
+# OS generated #
+# ============ #
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+# =============== #
+# Blender backups #
+# =============== #
+*.blend[0-9].*?
+*.blend[0-9]
